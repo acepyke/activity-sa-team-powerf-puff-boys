@@ -1,0 +1,25 @@
+body {
+    background-image: url("./The_Rowdyruff_Boys_Updated_design.webp");
+    
+
+}
+
+
+h1 {
+    color :chocolate;
+    border-width: medium;
+    
+    
+}
+
+ul {
+    color:green;
+    font-size: larger;
+}
+
+footer{
+    padding: 100px;
+    align-content: center;
+}
+    
+
